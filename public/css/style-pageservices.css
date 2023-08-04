@@ -1,0 +1,130 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 24, 2021, 2:42:21 PM
+    Author     : VIETNAMBOOKING
+*/
+
+/* details main */
+.services-full-box-details-main{background: url('http://massagequeen.vn/asset/images/post_type/services/services_bg_main.png') no-repeat bottom right;margin-top: 180px;}
+.services-full-box-details-main .services-full-box-details-main-inner{width:1240px;margin:auto;display: grid;grid-template-columns:580px auto;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-img{}
+.services-full-box-details-main .services-full-box-details-main-inner .box-img img{max-width:100%;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content{padding-left:150px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-title{font-size: 22px;color:#ba2028;font-family: 'utm_god';margin-bottom: 24px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-title span{font-size: 45px;padding-left: 5px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-list-menu{}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-list-menu ul{}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-list-menu ul li{background: url('http://massagequeen.vn/asset/images/post_type/services/services_icon_dot.png') no-repeat left 33%;padding-left: 15px; color: #3d3838; font-size: 14px; font-family: 'os_semi_bold'; font-weight: normal; margin: 5px 0px;padding-bottom:10px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-time{color:#ba2028;font-size: 14px;font-family: 'os_italic';}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-price{color:#ba2028;font-size: 24px;font-family: 'os_bold';margin: 10px 0px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-note{font-size: 12px;font-family: 'os_regular';color:#3d3737;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-book{margin-top: 25px;}
+.services-full-box-details-main .services-full-box-details-main-inner .box-content .box-book a{background: #ba2028;display: inline-block;padding:0px 24px;text-decoration: none;color:#fff;line-height: 46px;}
+/* end details main */
+
+/* album image */
+.services-box-full-album-images{background: url('http://massagequeen.vn/asset/images/post_type/services/services_bg_album.png') no-repeat top center;min-height: 300px;margin-top:180px;}
+.services-box-full-album-images .services-box-full-album-images-inner{padding-top:90px;}
+.services-box-full-album-images .services-box-full-album-images-inner h3{margin:0px;padding:0px;text-align: center;color:#3d3737;font-size: 24px;font-family: 'os_semi_bold';margin-bottom: 30px;}
+
+#owl-carousel-album-images .owl-item{}
+#owl-carousel-album-images .owl-item .item{display: grid;grid-template-columns:auto auto auto;}
+#owl-carousel-album-images .owl-item .item .box-img{padding:7.5px;}
+#owl-carousel-album-images .owl-item .item .box-img img{width:100%;height:240px;border-radius: 10px;}
+#owl-carousel-album-images .owl-dots{display: none;}
+#owl-carousel-album-images .owl-nav{position: absolute; top: -88px; right: 10px; font-size: 50px; color: #ba2028;user-select: none;}
+#owl-carousel-album-images .owl-nav button:hover{color:#ba2028;}
+
+.services-full-box-content{margin-top:200px;}
+.services-full-box-content .box-content-top{display: grid; grid-template-columns: auto 500px;}
+.services-full-box-content .box-content-top .box-content-summary{}
+.services-full-box-content .box-content-top .box-content-summary h1.box-title{font-size:20px;color:#3d3737;font-family: 'os_semi_bold';margin-top:100px;padding:0px;margin-bottom: 15px;}
+.services-full-box-content .box-content-top .box-content-summary h1.box-title span{display: block;font-size: 40px;color:#ba2028;font-family: 'utm_god';}
+.services-full-box-content .box-content-top .box-content-summary h3.content-summary{font-size: 16px;color:#3d3737;font-family: 'os_regular';line-height: 35px;}
+.services-full-box-content .box-content-top .box-img img{max-width:90%; margin: 0 auto}
+.services-full-box-content .box-content-main{font-size: 16px;color:#3d3737;font-family: 'os_regular';line-height: 35px;height: 100px;overflow: hidden;}
+.services-full-box-content .box-content-main.active{height: inherit;}
+.services-full-box-content .box-readmore{color:#ba2028;font-size: 14px;font-family: 'os_semi_bold';text-align: center;margin-top:30px;}
+.services-full-box-content .box-readmore span{border:1px solid #ba2028;display: inline-block;line-height: 46px;padding:0px 30px;cursor: pointer;}
+
+.service-details-other{margin-top: 150px;}
+.service-details-other h2{color: #3d3737; font-size: 24px; margin: 0px; padding: 0px; font-family: 'os_semi_bold'; margin-bottom: 40px; text-align: center;}
+.service-details-other .box-item{background:url('http://massagequeen.vn/asset/images/post_type/services/services_bg_item.png');width:270px;height:350px;margin:0 auto;text-align:center;padding:33px 0px 0px}
+
+.service-details-other .box-item h4{margin-bottom: 15px;}
+.service-details-other .box-item h4 a{text-decoration: none;font-size: 20px;font-family: 'utm_god';color:#ffffff;}
+.service-details-other .box-price{font-size:20px;color:#f4de10;font-family: 'os_bold';}
+.service-details-other .box-note{font-family: 'os_italic';color:#ffffff;font-size: 12px;}
+.service-details-other .box-time{font-size: 14px;color:#f4de10;font-family: 'os_italic';margin-top: 15px;}
+.service-details-other .box-readmore{}
+.service-details-other .box-readmore a{color: #fff; font-size: 14px; font-family: 'os_semi_bold'; line-height: 46px; width: 140px; display: inline-block; border: 1px solid #fff; position: absolute; bottom: 40px; left: 32%;}
+
+/* end details main */
+
+/* CAT SERVICES */
+.page-service-main{background:url(http://massagequeen.vn/asset/images/post_type/services/service-main-bg.jpg) no-repeat;width:1134px;height:265px;margin:80px auto;padding:145px 152px 0;text-align:center;margin-bottom:180px;}
+.page-service-main p{color:#fff;font-size:15px;line-height:1.5}
+
+h1.h1-services-cat{margin:0px;padding:0px;font-size:30px;font-family: 'os_bold';color:#3d3737;margin-bottom: 40px;text-align: center;}
+ul.ul-list-content-main{margin:0px;padding:0px;}
+ul.ul-list-content-main li{min-height: 600px;margin-bottom: 20px;}
+ul.ul-list-content-main li .box-item-inner{width: 800px; margin: 0px auto; display: grid; grid-template-columns: 470px auto; padding-top: 145px;}
+ul.ul-list-content-main li .box-item-inner .box-img{}
+ul.ul-list-content-main li .box-item-inner .box-img img{border-radius: 10px;width:100%;height:310px;}
+ul.ul-list-content-main li .box-item-inner .box-content{padding-left: 100px;}
+ul.ul-list-content-main li .box-item-inner .box-content .box-title{font-size:22px;color:#ffffff;font-family: 'utm_god';}
+ul.ul-list-content-main li .box-item-inner .box-content .box-title span{font-size:45px;}
+
+ul.ul-list-content-main li .box-item-inner .box-content .box-price{font-size: 24px; color: #f4de10; font-family: 'os_bold'; margin-bottom: 10px; margin-top: 24px;}
+ul.ul-list-content-main li .box-item-inner .box-content .box-note{font-family: 'os_italic';color:#ffffff;font-size: 12px;}
+ul.ul-list-content-main li .box-item-inner .box-content .box-time{font-size: 14px;color:#f4de10;font-family: 'os_italic';margin-top: 15px;}
+ul.ul-list-content-main li .box-item-inner .box-content .box-readmore{}
+ul.ul-list-content-main li .box-item-inner .box-content .box-readmore a{color: #fff; font-size: 14px; font-family: 'os_semi_bold'; line-height: 46px; width: 140px; display: inline-block; border: 1px solid #fff; text-align: center; margin-top: 30px;}
+
+.services-app.app-service-page h3{margin-bottom: 40px;}
+/* END CAT SERVICES */
+
+
+@media (max-width: 768px){
+    .service-content-main{padding:15px;}
+    ul.ul-list-content-main li .box-item-inner{margin: 0px auto; padding:25px; display: block; width: 100%;}
+    ul.ul-list-content-main li .box-item-inner .box-content{padding-left: 0px; text-align: center;}
+    ul.ul-list-content-main li{ min-height: 530px; margin-bottom: 25px; border-radius: 20px;}
+    ul.ul-list-content-main li .box-item-inner .box-content .box-title{margin-top:30px;font-size:24px;}
+    ul.ul-list-content-main li .box-item-inner .box-content .box-title span{font-size: inherit;}
+    ul.ul-list-content-main li .box-item-inner .box-img img{height: inherit;}
+    ul.ul-list-content-main li .box-item-inner .box-content .box-price{margin-top:10px;}
+ 
+    .services-full-box-details-main{margin-top: 50px; background: none; padding-bottom: 80px;}
+    .services-full-box-details-main .services-full-box-details-main-inner{display: block; width: 100%;}
+    .services-full-box-content .box-content-top{display: block;width:100%;padding:15px;}
+    .service-details-other h2{font-size: 24px;text-align: center;padding:0px 20px;}
+    .services-full-box-content .box-content-top .box-content-summary h1.box-title{margin-top: 0px;}
+    .services-full-box-content .box-content-main{height:150px;padding:15px;}
+    .services-app.app-service-page h3{margin-bottom: 30px; font-size: 24px; color: #3d3737; font-family: 'os_semi_bold';}
+    .services-app.app-service-page .box-item a{display: block;text-align: center;margin-bottom: 15px;}
+    .services-app.app-service-page .box-item a img{width:180px;}
+    .services-app.app-service-page .app-box p{font-size: 16px; color: #ffffff; font-family: 'os_regular';}
+    
+    .services-full-box-details-main .services-full-box-details-main-inner .box-content{padding: 0px 15px;}
+    .services-full-box-details-main .services-full-box-details-main-inner .box-content .box-book a{text-align: center; width: 100%; font-family: 'os_semi_bold';}
+    
+    .services-box-full-album-images{background: none;min-height: 100px;}
+    #owl-carousel-album-images .owl-item .item{display: block;}
+    #owl-carousel-album-images .owl-item .item .box-img img{height: inherit;}
+    .services-full-box-content{margin-top:50px;}
+    
+    #owl-carousel-album-images .owl-dots{display: none;margin-top: 50px;}
+    #owl-carousel-album-images.owl-theme .owl-dots .owl-dot.active{color:#ba2028;border:1px solid #ba2028;}
+    #owl-carousel-album-images.owl-theme .owl-dots .owl-dot.active span, #owl-carousel-album-images.owl-theme .owl-dots .owl-dot:hover span{background: #ba2028;}
+    #owl-carousel-album-images.owl-theme .owl-dots .owl-dot span{background: #ba2028;}
+    .services-box-full-album-images .services-box-full-album-images-inner{padding-top:0px;}
+    .services-box-full-album-images{margin-top:80px;}
+    .services-full-box-details-main .services-full-box-details-main-inner .box-content .box-title{margin-top: 32px;}
+    .service-details-other{margin-top: 80px;}
+    h1.h1-services-cat{margin-top:30px;}
+}

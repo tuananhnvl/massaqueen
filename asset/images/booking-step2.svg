@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="507" height="58" viewBox="0 0 507 58">
+    <defs>
+        <style>
+            .cls-1,.cls-6{fill:#ba2028}.cls-2{fill:#fff}.cls-5,.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_5647" transform="translate(-684 -12)">
+        <g id="Group_5644" transform="translate(-291.001)">
+            <g id="Group_5525" transform="translate(974.989 12)">
+                <g id="Group_5457">
+                    <path id="Polygon_1" d="M29 0l29 29-29 29L0 29z" class="cls-1" transform="translate(.012)"/>
+                </g>
+                <path id="Path_8669" d="M0 72.19l6.52 6.533 12.52-12.507-1.8-1.773-10.72 10.71-4.747-4.748z" class="cls-2" transform="translate(19.012 -42.443)"/>
+            </g>
+            <path id="Rectangle_1532" d="M0 0H110V2H0z" class="cls-1" transform="translate(1032 40)"/>
+        </g>
+        <g id="Group_5646">
+            <g id="Group_5526" transform="translate(849.493 12)">
+                <g id="Group_5457-2">
+                    <g id="Polygon_1-2" fill="#ba2028">
+                        <path d="M29 56.586L1.414 29 29 1.414 56.586 29 29 56.586z" class="cls-5" transform="translate(-.496)"/>
+                        <path d="M29 2.828L2.828 29 29 55.172 55.172 29 29 2.828M29 0l29 29-29 29L0 29 29 0z" class="cls-6" transform="translate(-.496)"/>
+                    </g>
+                </g>
+                <path id="Path_8702" d="M0 72.19l6.52 6.533 12.52-12.507-1.8-1.773-10.72 10.71-4.747-4.748z" class="cls-2" transform="translate(18.507 -42.443)"/>
+            </g>
+            <path id="Rectangle_1533" d="M0 0H110V2H0z" class="cls-1" transform="translate(905.999 40)"/>
+        </g>
+        <g id="Group_5645">
+            <g id="Group_5527" transform="translate(1014.999 12)">
+                <g id="Group_5457-3">
+                    <path id="Polygon_1-3" d="M29 0l29 29-29 29L0 29z" class="cls-2"/>
+                    <g id="Path_8667" fill="#fff">
+                        <path d="M29 56.586L1.414 29 29 1.414 56.586 29 29 56.586z" class="cls-5"/>
+                        <path d="M29 2.828L2.828 29 29 55.172 55.172 29 29 2.828M29 0l29 29-29 29L0 29 29 0z" class="cls-6"/>
+                    </g>
+                </g>
+                <path id="Path_8704" d="M.39-1.32A5.033 5.033 0 0 0 4.005.18 3.523 3.523 0 0 0 7.8-3.27a3.093 3.093 0 0 0-2.745-3.1L7.5-9.435v-1.215H1.71c-.72 0-.93.315-.93 1.02v1.62h1.77v-.645a.3.3 0 0 1 .33-.33h1.335a7.789 7.789 0 0 0 .945-.045V-9a3.72 3.72 0 0 0-.7.81l-1.8 2.415.39.975h.75c1.14 0 2.01.615 2.01 1.56a1.653 1.653 0 0 1-1.82 1.59 3.826 3.826 0 0 1-2.61-1.14z" class="cls-1" transform="translate(25 34)"/>
+            </g>
+            <path id="Rectangle_1534" d="M0 0H110V2H0z" class="cls-1" transform="translate(1071.999 40)"/>
+            <circle id="Ellipse_206" cx="5" cy="5" r="5" class="cls-1" transform="translate(1181 36)"/>
+        </g>
+    </g>
+</svg>

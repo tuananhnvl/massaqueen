@@ -1,0 +1,9 @@
+
+RewriteEngine on
+Options +FollowSymlinks
+RewriteBase /
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.] )$ $1.php [NC,L]

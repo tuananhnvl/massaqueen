@@ -1,0 +1,17 @@
+@font-face{font-family: 'utm_god';src: url('../.././fonts/utm_god.ttf');}
+.utm_god{font-family: 'utm_god';}
+
+@font-face{font-family: 'iciel_pacifico';src: url('../.././fonts/iciel_pacifico.ttf');}
+.iciel_pacifico{font-family: 'iciel_pacifico';}
+
+@font-face{font-family: 'os_regular';src: url('../.././fonts/OpenSans/OpenSans-Regular.ttf');}
+.os_regular{font-family: 'os_regular';}
+
+@font-face{font-family: 'os_semi_bold';src: url('../.././fonts/OpenSans/OpenSans-Semibold.ttf');}
+.os_semi_bold{font-family: 'os_semi_bold';}
+
+@font-face{font-family: 'os_bold';src: url('../.././fonts/OpenSans/OpenSans-Bold.ttf');}
+.os_bold{font-family: 'os_bold';}
+
+@font-face{font-family: 'os_italic';src: url('../.././fonts/OpenSans/OpenSans-Italic.ttf');}
+.os_italic{font-family: 'os_italic';}
